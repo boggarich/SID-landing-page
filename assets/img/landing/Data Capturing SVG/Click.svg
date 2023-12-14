@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.968" height="32" viewBox="0 0 23.968 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26b4ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Click" class="cls-1" d="M293.058,1454h-2v-19h2v19Zm4.011-5.99L297.056,1435h2l0.014,13Zm1.985-13.01h-2a2,2,0,1,0-4,0h-2A4,4,0,1,1,299.054,1435Zm8.957,28H290.56l-4.5-6v-7.41l2.292-2.3,1.413,1.42-1.706,1.7v5.92l3.5,4.67h14.588l1.794-12.37-10.3-4.22,0.819-1.82,11.574,4.78Z" transform="translate(-286.063 -1431)"/>
+</svg>

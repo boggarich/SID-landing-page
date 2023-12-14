@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="32" viewBox="0 0 24 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26b4ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Closed_Lock" data-name="Closed Lock" class="cls-1" d="M297.023,1653a12.011,12.011,0,0,1-12-12v-6h24v6A12.012,12.012,0,0,1,297.023,1653Zm-10-16v4a10,10,0,0,0,20,0v-4h-20Zm10,11a3,3,0,0,1-3-2.97V1643a3,3,0,0,1,6,0v2.03A3,3,0,0,1,297.023,1648Zm0-6a1,1,0,0,0-1,1v2a1,1,0,0,0,2,0v-2A1,1,0,0,0,297.023,1642Zm8-9h-2v-4.31a6.008,6.008,0,0,0-12,0V1633h-2v-4.31a8.006,8.006,0,0,1,16,0V1633Z" transform="translate(-285.031 -1621)"/>
+</svg>

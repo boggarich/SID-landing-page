@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="26" viewBox="0 0 32 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26b4ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Truck" class="cls-1" d="M1073.98,4902.02h-20v-20h20v20Zm-18-2h16v-16h-16v16Zm30,2h-10v-2h8v-6.76l-2.62-5.24h-3.38v6h4v2h-6v-10h6.62l3.38,6.77v9.23Zm-16-6h-12v-2h12v2Zm11,12a4,4,0,0,1-4-4h2a2,2,0,0,0,4,0h2A4.005,4.005,0,0,1,1080.98,4908.02Zm-19,0a4,4,0,0,1-4-4h2a2,2,0,0,0,4,0h2A4.005,4.005,0,0,1,1061.98,4908.02Z" transform="translate(-1053.97 -4882.03)"/>
+</svg>

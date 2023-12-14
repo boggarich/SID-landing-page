@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="32" viewBox="0 0 20 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26b4ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Phone" class="cls-1" d="M303,4559H283v-8h20v8Zm-18-2h16v-4H285v4Zm18,26H283v-22.05h2V4581h16v-20.05h2V4583Zm-9-4h-2v-2h2v2Zm1-23h-4v-2h4v2Zm7,19H284v-2h18v2Z" transform="translate(-283 -4551)"/>
+</svg>

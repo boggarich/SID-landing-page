@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26b4ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Printer" class="cls-1" d="M1082.12,4671h-6v-2h4v-16h-27.98v16h3.99v2h-5.99v-20h31.98v20Zm-8,6h-15.99v-12h2v10h11.99v-10h2v12Zm-17.99-20h-1.99v-2h1.99v2Zm4,0h-2v-2h2v2Zm13.99-8h-2v-2h-11.99v2h-2v-4h15.99v4Zm-3,24h-8.99v-2h8.99v2Zm0-4h-8.99v-2h8.99v2Z" transform="translate(-1050.13 -4645)"/>
+</svg>

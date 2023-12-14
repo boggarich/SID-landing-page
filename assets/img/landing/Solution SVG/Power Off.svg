@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="32" viewBox="0 0 28 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26b4ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Power_Off" data-name="Power Off" class="cls-1" d="M292,4722a14,14,0,0,1-5.184-27l0.739,1.85a12,12,0,1,0,8.89,0l0.739-1.85A14,14,0,0,1,292,4722Zm0-19h0a3,3,0,0,1-3-3v-7a3,3,0,0,1,3-3,3.006,3.006,0,0,1,3,3v7A3.007,3.007,0,0,1,292,4703Zm0-11a1,1,0,0,0-1,1v7a1,1,0,0,0,.292.71,0.984,0.984,0,0,0,.706.29,1,1,0,0,0,1-1v-7A1,1,0,0,0,292,4692Z" transform="translate(-278 -4690)"/>
+</svg>

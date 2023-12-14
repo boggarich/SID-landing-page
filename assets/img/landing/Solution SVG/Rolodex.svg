@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="26" viewBox="0 0 32 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26b4ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rolodex" class="cls-1" d="M674.979,4757a5,5,0,1,1,5-5A5,5,0,0,1,674.979,4757Zm0-8a3,3,0,1,0,3,3A3.006,3.006,0,0,0,674.979,4749Zm5.013,16.16-0.886-5.4-2.441-.81,0.628-1.9,3.59,1.19,1.082,6.6Zm-10.026,0-1.974-.32,1.083-6.6,3.59-1.19,0.628,1.9-2.441.81ZM687.979,4751h-4v-2h4v2Zm4,4h-8v-2h8v2Zm0,4h-8v-2h8v2Zm0,4h-8v-2h8v2Zm-7,6h-10v-2h10v2Zm11,0h-9v-2h7v-22h-28v22h7v2h-9v-26h32v26Z" transform="translate(-663.969 -4743)"/>
+</svg>
